@@ -1,0 +1,46 @@
+.bodi{
+	height: 200px;
+}
+nav{
+	background-color: 	81C200;
+	height: 70;
+}
+li{
+	display: inline-block;
+}
+
+.logo{
+	width: 70px;
+	height: 40px;
+
+    }
+
+a{
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-size: 20;
+	text-align: center;
+	border-radius: 20px;
+
+}
+
+a:hover {
+	background-color: green;
+}
+div{
+	width: 30;
+	border: 2px solid ;
+	background-color: 093F89;
+	color: white;
+	text-align: center;
+	margin-right: 70px;
+}
+.font{
+	background-color: white;
+	color: black;
+}
+
+
+
+	
